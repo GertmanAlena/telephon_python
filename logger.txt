@@ -1,0 +1,11 @@
+02-Oct-22 18:48:10
+
+{'name': 'Alena', 'surname': 'Hertman', 'phon_number': '+375298991523'} = добавили контакт
+02-Oct-22 18:48:35
+
+{'name': 'Aleks', 'surname': 'Hertman', 'phon_number': '1245'} = добавили контакт
+02-Oct-22 18:48:41
+
+[{'name': 'Alena', 'surname': 'Hertman', 'phon_number': '+375298991523'}, {'name': 'Aleks', 'surname': 'Hertman', 'phon_number': '1245'}] = найден контакт
+02-Oct-22 18:48:56 ->Экспорт в csv завершен успешно
+02-Oct-22 18:49:33 ->Работа окончена
